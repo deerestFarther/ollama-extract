@@ -57,7 +57,6 @@ public class ApiService {
             this.format = format;
             this.stream = stream;
         }
-
         // Getters and Setters
     }
 }
